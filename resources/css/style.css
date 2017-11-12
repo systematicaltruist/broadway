@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+
+header nav ul, footer nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+footer nav ul li{
+  display: inline;
+}
+
+footer nav ul {
+  display: inline;
+}
