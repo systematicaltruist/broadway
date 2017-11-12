@@ -30,7 +30,7 @@ nav ul li a {
 .bg-image {
   color: white;
   background-image: url('../images/the-flatiron-building.png');
-  background-color: lightcyan;
+  background-color: dimgray;
 }
 
 header nav ul, footer nav ul {
